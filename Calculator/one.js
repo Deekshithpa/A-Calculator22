@@ -24,8 +24,3 @@ for (item of buttons) {
     }
   });
 }
-
-/*if (buttonText == '^') {
-    screenValue = screenValue.slice(0,-1);
-    screen.value = screenValue
-}*/
